@@ -1,3 +1,7 @@
+---
+title: This is my title
+---
+
 <ul>
   {% for post in site.posts %}
     <li>
